@@ -73,7 +73,7 @@ function App() {
             transition={{ duration: 0.6 }}
           >
             <div className="glass rounded-2xl px-6 py-3">
-              <h1 className="text-2xl font-bold text-white">Weather Glass</h1>
+              <h1 className="text-2xl font-bold text-white">WeatherForcast</h1>
             </div>
             <div className="flex items-center gap-4">
               <LocationSearch 
